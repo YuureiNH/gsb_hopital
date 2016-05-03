@@ -1,0 +1,6 @@
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\Customer_bussiness\bin\Debug\Customer_bussiness.dll
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\Customer_bussiness\bin\Debug\Customer_bussiness.pdb
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\Customer_bussiness\obj\Debug\Customer_bussiness.csprojResolveAssemblyReference.cache
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\Customer_bussiness\obj\Debug\Customer_bussiness.dll
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\Customer_bussiness\obj\Debug\Customer_bussiness.pdb
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\Customer_bussiness\bin\Debug\Customer_bussiness.dll.config

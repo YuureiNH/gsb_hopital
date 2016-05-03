@@ -1,0 +1,9 @@
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\Customer_bussiness_mail\bin\Debug\Customer_bussiness_mail.dll
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\Customer_bussiness_mail\bin\Debug\Customer_bussiness_mail.pdb
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\Customer_bussiness_mail\bin\Debug\Customer_bussiness.dll
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\Customer_bussiness_mail\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\Customer_bussiness_mail\bin\Debug\Customer_bussiness.pdb
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\Customer_bussiness_mail\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\Customer_bussiness_mail\obj\Debug\Customer_bussiness_TEST.csprojResolveAssemblyReference.cache
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\Customer_bussiness_mail\obj\Debug\Customer_bussiness_mail.dll
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\Customer_bussiness_mail\obj\Debug\Customer_bussiness_mail.pdb

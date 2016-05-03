@@ -1,0 +1,11 @@
+c:\users\carricaturiste\documents\visual studio 2015\Projects\Gsb_hopital\IHM\bin\Debug\IHM.exe.config
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM\bin\Debug\IHM.exe
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM\bin\Debug\IHM.pdb
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM\obj\Debug\IHM.csprojResolveAssemblyReference.cache
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM\obj\Debug\IHM.Form1.resources
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM\obj\Debug\IHM.Form2.resources
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM\obj\Debug\IHM.Form3.resources
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM\obj\Debug\IHM.Properties.Resources.resources
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM\obj\Debug\IHM.csproj.GenerateResource.Cache
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM\obj\Debug\IHM.exe
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM\obj\Debug\IHM.pdb

@@ -1,0 +1,7 @@
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM_test\bin\Debug\IHM_test.dll
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM_test\bin\Debug\IHM_test.pdb
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM_test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM_test\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM_test\obj\Debug\IHM_test.csprojResolveAssemblyReference.cache
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM_test\obj\Debug\IHM_test.dll
+C:\Users\Carricaturiste\Documents\Visual Studio 2015\Projects\Gsb_hopital\IHM_test\obj\Debug\IHM_test.pdb
