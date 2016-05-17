@@ -15,7 +15,7 @@ namespace IHM
         {
             string returnValue = null;
             ConnectionStringSettings settings = 
-                ConfigurationManager.ConnectionStrings["IHM.Properties.Settings.Gsb_dev"];
+                ConfigurationManager.ConnectionStrings["IHM.Properties.Settings.Gsb_prod"];
 
             if (settings != null)
                 returnValue = settings.ConnectionString;

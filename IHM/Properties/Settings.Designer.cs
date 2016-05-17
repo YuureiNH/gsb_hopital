@@ -36,7 +36,8 @@ namespace IHM.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=83.156.93.4;Initial Catalog=Gsb_Hopital;Integrated Security=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=192.168.146.132\\SQLEXPRESS;Initial Catalog=Gsb_Hopital;Integrated Sec" +
+            "urity=True")]
         public string Gsb_prod {
             get {
                 return ((string)(this["Gsb_prod"]));
